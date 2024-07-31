@@ -691,12 +691,7 @@
        </item>
       </layout>
      </widget>
-     <widget class="QWidget" name="tabIdentification">
-      <attribute name="title">
-       <string>&amp;Identification</string>
-      </attribute>
-     </widget>
-    </widget>
+      </widget>
    </item>
    <item>
     <widget class="QFrame" name="frame">
