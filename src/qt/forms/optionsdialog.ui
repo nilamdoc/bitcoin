@@ -691,7 +691,7 @@
        </item>
       </layout>
      </widget>
-      </widget>
+    </widget>
    </item>
    <item>
     <widget class="QFrame" name="frame">
